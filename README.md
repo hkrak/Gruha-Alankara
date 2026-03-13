@@ -1,4 +1,4 @@
-# Home Design AI
+# Gruha Alankara: Interior Design Platform with AR and AI Integration
 
 An **Agentic AI-powered interior design platform** that provides personalized design recommendations, room analysis, and automated design assistance using cutting-edge AI technologies.
 
